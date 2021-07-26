@@ -22,6 +22,16 @@ Repositories I contributed to
       🏹 FunnyGuilds is a fully customizable RPG plugin that allows you to create guilds 
     </td>
   </tr>
+  <tr>
+    <td>
+      📘 <a href="https://github.com/FunnyGuilds/FunnyCommands"><b>FunnyCommands</b></a><br>
+      FunnyGuilds commands framework based on top of the Panda dependency injection 🔨
+    </td>
+    <td>
+      📘 <a href="https://github.com/ViaVersion/ViaVersion"><b>ViaVersion</b></a><br>
+      Allows the connection of newer clients to older server versions for Minecraft servers. 
+    </td>
+  </tr>
 </table>
 
 Notable repositories (private notepad)
